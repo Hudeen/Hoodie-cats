@@ -360,6 +360,10 @@ footer{
         align-items: center;
     }
 
+    .main-text{
+        font-size: 4.8vw;
+    }
+
     .banner-left_side{
         margin-bottom: 60px;
         width: 100%;
@@ -375,12 +379,8 @@ footer{
         font-size: 7.5vw;
     }
 
-    .main-text{
-        font-size: 20px;
-    }
-
     .author-NFT {
-        font-size: 25px;
+        font-size: 7vw;
         display: flex;
         justify-content: center;
     }
@@ -420,7 +420,7 @@ footer{
     }
 
     .take-cat{
-        font-size: 20px;
+        font-size: 5vw;
     }
 
     .cat-image{
